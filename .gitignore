@@ -1,0 +1,6 @@
+# Ignore notes files
+*.rtf
+# Ignore word files in development
+*.pages
+# Ignore notebook checkpoints
+*/.ipynb_checkpoints/*
