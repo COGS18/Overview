@@ -9,6 +9,11 @@ We would like to thank the following people for help and support through the dev
 - Drew Hoffman
 - Steve Barrera
 
+#### Discussions & Support
+- Shuai Tang
+- Jorge Yanar
+- Bradley Voytek
+
 #### Assistance with Jupyter textbooks
 - Chris Holdgraf
 - Sam Lau
@@ -18,8 +23,3 @@ We would like to thank the following people for help and support through the dev
 - Scott Cole (Fall 2018)
 - Sean Trott (Fall 2018)
 - Shuai Tang (Fall 2018)
-
-#### Discussions & Support
-- Shuai Tang
-- Jorge Yanar
-- Bradley Voytek
