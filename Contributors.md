@@ -1,13 +1,15 @@
+# Contributors
+
 ### Course Developer & Instructor
 - Thomas Donoghue
 
-### TAs (Fall 2018)
-- Rob Loughnan
-- Paolo Gabriel
-- Daril Brown
+### Teaching Assistants (TAs) 
+- Rob Loughnan (Fall 2018)
+- Paolo Gabriel (Fall 2018)
+- Daril Brown (Fall 2018)
 
-### IAs (Fall 2018)
-- Zehua (Luke) Chen
-- Peilin Chen
-- Yinhe (Luis) Lu
-- Brandon Nguyen
+### Instructional Assistants (IAs) 
+- Zehua (Luke) Chen (Fall 2018)
+- Peilin Chen (Fall 2018)
+- Yinhe (Luis) Lu (Fall 2018)
+- Brandon Nguyen (Fall 2018)
